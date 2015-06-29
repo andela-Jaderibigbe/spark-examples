@@ -1,0 +1,5 @@
+15/06/24 14:43:30.023 INFO SparkContext: Running Spark version 1.3.0
+15/06/24 14:43:31.053 WARN NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+15/06/24 14:43:31.220 INFO SecurityManager: Changing view acls to: Olajyd
+15/06/24 14:43:31.221 INFO SecurityManager: Changing modify acls to: Olajyd
+15/06/24 14:43:31.222 INFO SecurityManager: SecurityManager: authentication disabled; ui acls disabled; users with view permissions: Set(Olajyd); users with modify permissions: Set(Olajyd)
